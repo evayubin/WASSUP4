@@ -1,9 +1,13 @@
 # WASSUP4
 WASSUP 4th_AI SERVICE DIRECTOR CAPACITY PROGRAM BOOTCAMP
 
-### 어떻게 시작할까요
+### Who I am
 
-* 임유빈
-      - 아직은 배우는 중
+* Name: 임유빈, Eva
+* Status: studian
+* Idiom: Learn as if you were live forever
 
-### 좀 더 익숙해지면 깔쌈하게(?)
+### What did I for living?
+* Something amazing.
+~~~~
+To be continued...
