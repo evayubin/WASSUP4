@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Eva's%20Github!&fontSize=90%&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Eva's%20Github!&fontSize=90%" />
 
 Doing! `WASSUP 4th_AI SERVICE DIRECTOR CAPACITY PROGRAM BOOTCAMP` 
 
